@@ -1,6 +1,8 @@
 package com.lynn.user.utils;
 
-
+/**
+ * 数据流处理
+ */
 public class ByteUtils {
 
 
